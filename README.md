@@ -46,7 +46,7 @@ __IMPORTANT NOTE__: The actual implementation of each and every step is stored i
 
 ### Part 4: Testing React apps
 - Step 1: Install `enzyme` and `react-test-renderer`. Inside `HiddenText.spec.js` write 2 tests using `shallow()`: initial `text` is hidden and another with some revealed letters.
-- Step 2: Install `axios-mock-adapter` and mock data fetch. Then Using `mount()` inside `App.spec.js` write 3 tests: title exists, 26 letters rendered and 6 lives visible.
+- Step 2: Install `axios-mock-adapter` and mock data fetch. Then Using `mount()` inside `App.spec.js` write 3 tests: log src was defined, 26 letters rendered and 6 lives visible.
 - Step 3: Write 2 integration tests: successful letter guess and unsuccessful letter guess. After creating a wrapper use `setImmediate()` for the rest of the code so the data is accessible.
 
 ## License
