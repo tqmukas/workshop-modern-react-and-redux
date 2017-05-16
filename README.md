@@ -31,7 +31,7 @@ __IMPORTANT NOTE__: The actual implementation of each and every step is stored i
 - Step 1: Clone the project, install modules, render game title (Hangman Game) and some text.
 
 ### Part 2: Dive into Components
-- Step 1: Move existing code from `index.js` to `<App/>` component. Replace game title with gma logo (`./hangman-manges/logo.png`)
+- Step 1: Move existing code from `index.js` to `<App/>` component. Replace game title with game logo (`./hangman-manges/logo.png`)
 - Step 2: Create initial state with `question` and `text`, render it and then extract it to `<HiddenText/>` component. Text should be hidden.
 - Step 3: Render alphabet letters as buttons inside `<Alphabet/>` component and fire an event if any is clicked.
 - Step 4: Connect `<HiddenText/>` and `<Alphabet/>` components. Letters should be revealed after successful guess. Create and use `guesses` `Array` inside state.
