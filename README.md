@@ -3,6 +3,9 @@ React is a JavaScript library for creating user interfaces developed by Facebook
 
 This hands-on workshop will help you to deeply understand and learn core concepts of React, how to structure your application with Redux and test it in a proper way.
 
+# Slides
+http://slides.com/tomasmiliauskas/modern-web-development-with-react-and-redux
+
 ## Prerequisites
 Hardware:
 - A personal computer with internet connection.
